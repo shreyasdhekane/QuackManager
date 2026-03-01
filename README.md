@@ -1,1 +1,1 @@
-# QuackManager
+# QuackManager - Java Project
